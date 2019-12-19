@@ -1,6 +1,6 @@
 source :rubygems
 
-gem 'jasmine'
+gem 'jasmine', '>= 1.2.1'
 gem 'rb-fsevent'
 gem 'guard'
 gem 'guard-process'
